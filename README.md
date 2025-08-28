@@ -12,7 +12,7 @@ Hello and Welcome 👋, I'm Md. Azizur Rahman
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Azizur-Rahman-Maruf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azizur-Rahman-Maruf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Md-Azizur-Rahman-Maruf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 
